@@ -6,4 +6,4 @@ This repository contains my solutions and a description of important things I le
 
 ## Exercises
 
-You can find all the exercises in the *Exercises* folder. 
+You can find all the exercises in the [*Exercises*](https://github.com/sgs006/JavaScript30/tree/master/Exercises) folder. 
