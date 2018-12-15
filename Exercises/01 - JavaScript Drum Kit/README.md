@@ -4,7 +4,6 @@ Part 1 of Wes Bos JavaScript30 course. Starter HTML/CSS is provided and JavaScri
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
 New things I learned:
